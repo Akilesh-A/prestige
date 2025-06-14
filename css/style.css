@@ -427,8 +427,13 @@ select#sources2 {
 }
 .properties_section .stickydiv {
   position: absolute;
-  top: -39px;
-  left: -33px;
+      top: 13px;
+    left: 11px;
+        background: #fff;
+    padding: 4px 9px;
+    border-radius: 11px;
+    font-size: 13px;
+    font-weight: 800;
 }
 
 /* .contact-container */
